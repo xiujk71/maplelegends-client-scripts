@@ -1,0 +1,60 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion]
+"CommonFilesDir"=-
+"FirstInstallDateTime"=-
+"ProductId"="-
+"ProductName"="-
+"ProgramFilesDir"="-
+"ProgramFilesPath"=-
+"RegisteredOrganization"=-
+"RegisteredOwner"=-
+"SubVersionNumber"=-
+"VersionNumber"=-
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion]
+"CSDVersion"=-
+"CurrentBuild"=-
+"CurrentBuildNumber"=-
+"CurrentMajorVersionNumber"=-
+"CurrentMinorVersionNumber"=-
+"CurrentType"=-
+"CurrentVersion"=-
+"DigitalProductId"=-
+"EditionId"=-
+"InstallDate"=-
+"ProductId"=-
+"ProductName"=-
+"RegisteredOrganization"=-
+"RegisteredOwner"=-
+"SystemRoot"=-
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion]
+"CommonFilesDir"="C:\\Program Files\\Common Files"
+"FirstInstallDateTime"=hex:21,81,7c,23
+"ProductId"="12345-oem-0000001-54321"
+"ProductName"="Microsoft Windows 98"
+"ProgramFilesDir"="C:\\Program Files"
+"ProgramFilesPath"=hex(2):25,00,00,00,50,00,00,00,72,00,00,00,6f,00,00,00,67,\
+  00,00,00,72,00,00,00,61,00,00,00,6d,00,00,00,46,00,00,00,69,00,00,00,6c,00,\
+  00,00,65,00,00,00,73,00,00,00,25,00,00,00,00,00,00,00
+"RegisteredOrganization"=""
+"RegisteredOwner"=""
+"SubVersionNumber"=" A "
+"VersionNumber"="4.10.2222"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion]
+"CurrentType"="Uniprocessor Free"
+"DigitalProductId"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"EditionId"="Professional"
+"InstallDate"=dword:4be5019a
+"ProductId"="12345-oem-0000001-54321"
+"RegisteredOrganization"=""
+"RegisteredOwner"=""
+"SystemRoot"="C:\\windows"
