@@ -1,0 +1,1 @@
+# maplelegends-client-scripts
