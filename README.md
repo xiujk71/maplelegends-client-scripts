@@ -1,4 +1,4 @@
-# Script for unofficial Maplelegends Client
+# Script for unofficial MapleLegends Client
 
 To set it up follow steps below:
 - Clone this repo locally
@@ -32,3 +32,4 @@ Some things to note:
 - please run ./maplelegends.sh before ./ml_winecfg.
   - ./maplelegends checks if the prefix exist or not and uses that condition to install dxvk-1.10.3, ws2_32.dll & ws2help.dll
 - dxvk-1.10.3 can be installed via winetricks dxvk1103, but manual installation is done via script in the event of winetricks not working for unknown reasons.
+- for some reason, manually applying dxvk dll overwrites breaks, and prevents MapleLegends from running. Hence that portion is being commented
