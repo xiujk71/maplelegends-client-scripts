@@ -38,3 +38,4 @@ Acknowledgements:
 - https://www.winehq.org
 - https://github.com/mmtrt/WINE_AppImage
 - https://github.com/doitsujin/dxvk/
+- https://maplelegends.com/
